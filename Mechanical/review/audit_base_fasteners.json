@@ -1,0 +1,372 @@
+[
+  {
+    "hardware": "lcd_screw_0.7_72",
+    "part": "front_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "lcd_screw_0.7_72",
+    "part": "display_carrier",
+    "volume": 0.0
+  },
+  {
+    "hardware": "lcd_insert_0.7_72",
+    "part": "front_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "lcd_insert_0.7_72",
+    "part": "display_carrier",
+    "volume": 0.0
+  },
+  {
+    "hardware": "lcd_screw_0.7_91",
+    "part": "front_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "lcd_screw_0.7_91",
+    "part": "display_carrier",
+    "volume": 0.0
+  },
+  {
+    "hardware": "lcd_insert_0.7_91",
+    "part": "front_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "lcd_insert_0.7_91",
+    "part": "display_carrier",
+    "volume": 0.0
+  },
+  {
+    "hardware": "lcd_screw_59.3_72",
+    "part": "front_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "lcd_screw_59.3_72",
+    "part": "display_carrier",
+    "volume": 0.0
+  },
+  {
+    "hardware": "lcd_insert_59.3_72",
+    "part": "front_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "lcd_insert_59.3_72",
+    "part": "display_carrier",
+    "volume": 0.0
+  },
+  {
+    "hardware": "lcd_screw_59.3_91",
+    "part": "front_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "lcd_screw_59.3_91",
+    "part": "display_carrier",
+    "volume": 0.0
+  },
+  {
+    "hardware": "lcd_insert_59.3_91",
+    "part": "front_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "lcd_insert_59.3_91",
+    "part": "display_carrier",
+    "volume": 0.0
+  },
+  {
+    "hardware": "PCB_screw_H5",
+    "part": "front_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "PCB_screw_H5",
+    "part": "rear_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "PCB_insert_H5",
+    "part": "front_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "PCB_screw_H6",
+    "part": "front_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "PCB_screw_H6",
+    "part": "rear_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "PCB_insert_H6",
+    "part": "front_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "PCB_screw_H7",
+    "part": "front_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "PCB_screw_H7",
+    "part": "rear_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "PCB_insert_H7",
+    "part": "front_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "PCB_screw_H8",
+    "part": "front_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "PCB_screw_H8",
+    "part": "rear_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "PCB_insert_H8",
+    "part": "front_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "case_screw_1",
+    "part": "front_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "case_screw_1",
+    "part": "rear_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "case_insert_1",
+    "part": "front_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "case_insert_1",
+    "part": "rear_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "case_screw_2",
+    "part": "front_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "case_screw_2",
+    "part": "rear_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "case_insert_2",
+    "part": "front_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "case_insert_2",
+    "part": "rear_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "case_screw_3",
+    "part": "front_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "case_screw_3",
+    "part": "rear_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "case_insert_3",
+    "part": "front_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "case_insert_3",
+    "part": "rear_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "case_screw_4",
+    "part": "front_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "case_screw_4",
+    "part": "rear_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "case_insert_4",
+    "part": "front_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "case_insert_4",
+    "part": "rear_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "knob_insert",
+    "part": "encoder_knob",
+    "volume": 0.0
+  },
+  {
+    "hardware": "knob_grub_screw",
+    "part": "encoder_knob",
+    "volume": 0.0
+  },
+  {
+    "hardware": "guard_screw_9.4_51",
+    "part": "front_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "guard_screw_9.4_51",
+    "part": "rear_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "guard_screw_9.4_51",
+    "part": "battery_guard",
+    "volume": 0.0
+  },
+  {
+    "hardware": "guard_insert_9.4_51",
+    "part": "rear_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "guard_insert_9.4_51",
+    "part": "battery_guard",
+    "volume": 0.0
+  },
+  {
+    "hardware": "guard_screw_9.4_89",
+    "part": "front_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "guard_screw_9.4_89",
+    "part": "rear_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "guard_screw_9.4_89",
+    "part": "battery_guard",
+    "volume": 0.0
+  },
+  {
+    "hardware": "guard_insert_9.4_89",
+    "part": "rear_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "guard_insert_9.4_89",
+    "part": "battery_guard",
+    "volume": 0.0
+  },
+  {
+    "hardware": "guard_screw_50.6_51",
+    "part": "front_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "guard_screw_50.6_51",
+    "part": "rear_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "guard_screw_50.6_51",
+    "part": "battery_guard",
+    "volume": 0.0
+  },
+  {
+    "hardware": "guard_insert_50.6_51",
+    "part": "rear_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "guard_insert_50.6_51",
+    "part": "battery_guard",
+    "volume": 0.0
+  },
+  {
+    "hardware": "guard_screw_50.6_89",
+    "part": "front_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "guard_screw_50.6_89",
+    "part": "rear_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "guard_screw_50.6_89",
+    "part": "battery_guard",
+    "volume": 0.0
+  },
+  {
+    "hardware": "guard_insert_50.6_89",
+    "part": "rear_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "guard_insert_50.6_89",
+    "part": "battery_guard",
+    "volume": 0.0
+  },
+  {
+    "hardware": "speaker_screw_3",
+    "part": "rear_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "speaker_screw_3",
+    "part": "speaker_retainer",
+    "volume": 0.0
+  },
+  {
+    "hardware": "speaker_insert_3",
+    "part": "rear_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "speaker_insert_3",
+    "part": "speaker_retainer",
+    "volume": 0.0
+  },
+  {
+    "hardware": "speaker_screw_33",
+    "part": "rear_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "speaker_screw_33",
+    "part": "speaker_retainer",
+    "volume": 0.0
+  },
+  {
+    "hardware": "speaker_insert_33",
+    "part": "rear_shell",
+    "volume": 0.0
+  },
+  {
+    "hardware": "speaker_insert_33",
+    "part": "speaker_retainer",
+    "volume": 0.0
+  }
+]

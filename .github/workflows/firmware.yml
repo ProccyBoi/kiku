@@ -1,0 +1,38 @@
+name: Firmware
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          submodules: recursive
+          persist-credentials: false
+      - name: Install pinned ARM GCC
+        run: |
+          python3 -m pip install --user "platformio==6.1.19"
+          python3 -m platformio pkg install --global --tool "platformio/toolchain-gccarmnoneeabi@1.120301.0"
+          echo "ARM_GCC_PREFIX=$HOME/.platformio/packages/toolchain-gccarmnoneeabi/bin" >> "$GITHUB_ENV"
+      - name: Verify ARM GCC
+        run: |
+          "$ARM_GCC_PREFIX/arm-none-eabi-gcc" --version
+      - name: Run release gate
+        run: python3 Firmware/tools/release_check.py --require-clean
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        with:
+          name: kiku-firmware
+          if-no-files-found: error
+          path: |
+            Firmware/build/kiku.elf
+            Firmware/build/kiku.bin
+            Firmware/build/kiku.hex
+            Firmware/build/kiku.map
+            Firmware/build/kiku-build-manifest.json

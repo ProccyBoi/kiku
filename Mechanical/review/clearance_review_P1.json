@@ -1,0 +1,2342 @@
+{
+  "release_status": "HOLD - prototype engineering review",
+  "method": "0.06 mm tessellation broad-phase surface collision screening; exact BREP volume on candidates. Complete containment and tolerance stack require separate review. This is not a certified interference-free assembly.",
+  "solids": {
+    "lcd_screw_0.7_72": {
+      "valid": true,
+      "solids": 1,
+      "volume": 28.444
+    },
+    "lcd_insert_0.7_72": {
+      "valid": true,
+      "solids": 1,
+      "volume": 24.1274
+    },
+    "lcd_screw_0.7_91": {
+      "valid": true,
+      "solids": 1,
+      "volume": 28.444
+    },
+    "lcd_insert_0.7_91": {
+      "valid": true,
+      "solids": 1,
+      "volume": 24.1274
+    },
+    "lcd_screw_59.3_72": {
+      "valid": true,
+      "solids": 1,
+      "volume": 28.444
+    },
+    "lcd_insert_59.3_72": {
+      "valid": true,
+      "solids": 1,
+      "volume": 24.1274
+    },
+    "lcd_screw_59.3_91": {
+      "valid": true,
+      "solids": 1,
+      "volume": 28.444
+    },
+    "lcd_insert_59.3_91": {
+      "valid": true,
+      "solids": 1,
+      "volume": 24.1274
+    },
+    "display_carrier": {
+      "valid": true,
+      "solids": 1,
+      "volume": 373.4487
+    },
+    "PCB_screw_H5": {
+      "valid": true,
+      "solids": 1,
+      "volume": 34.7272
+    },
+    "PCB_insert_H5": {
+      "valid": true,
+      "solids": 1,
+      "volume": 24.1274
+    },
+    "PCB_screw_H6": {
+      "valid": true,
+      "solids": 1,
+      "volume": 34.7272
+    },
+    "PCB_insert_H6": {
+      "valid": true,
+      "solids": 1,
+      "volume": 24.1274
+    },
+    "PCB_screw_H7": {
+      "valid": true,
+      "solids": 1,
+      "volume": 34.7272
+    },
+    "PCB_insert_H7": {
+      "valid": true,
+      "solids": 1,
+      "volume": 24.1274
+    },
+    "PCB_screw_H8": {
+      "valid": true,
+      "solids": 1,
+      "volume": 34.7272
+    },
+    "PCB_insert_H8": {
+      "valid": true,
+      "solids": 1,
+      "volume": 24.1274
+    },
+    "case_screw_1": {
+      "valid": true,
+      "solids": 1,
+      "volume": 73.5604
+    },
+    "case_insert_1": {
+      "valid": true,
+      "solids": 1,
+      "volume": 24.1274
+    },
+    "case_screw_2": {
+      "valid": true,
+      "solids": 1,
+      "volume": 73.5604
+    },
+    "case_insert_2": {
+      "valid": true,
+      "solids": 1,
+      "volume": 24.1274
+    },
+    "case_screw_3": {
+      "valid": true,
+      "solids": 1,
+      "volume": 73.5604
+    },
+    "case_insert_3": {
+      "valid": true,
+      "solids": 1,
+      "volume": 24.1274
+    },
+    "case_screw_4": {
+      "valid": true,
+      "solids": 1,
+      "volume": 73.5604
+    },
+    "case_insert_4": {
+      "valid": true,
+      "solids": 1,
+      "volume": 24.1274
+    },
+    "button_left": {
+      "valid": true,
+      "solids": 1,
+      "volume": 531.8985
+    },
+    "button_right": {
+      "valid": true,
+      "solids": 1,
+      "volume": 531.8985
+    },
+    "knob_insert": {
+      "valid": true,
+      "solids": 1,
+      "volume": 24.1274
+    },
+    "knob_grub_screw": {
+      "valid": true,
+      "solids": 1,
+      "volume": 18.8496
+    },
+    "encoder_knob": {
+      "valid": true,
+      "solids": 1,
+      "volume": 4386.5367
+    },
+    "guard_screw_9.4_51": {
+      "valid": true,
+      "solids": 1,
+      "volume": 28.444
+    },
+    "guard_insert_9.4_51": {
+      "valid": true,
+      "solids": 1,
+      "volume": 24.1274
+    },
+    "guard_screw_9.4_89": {
+      "valid": true,
+      "solids": 1,
+      "volume": 28.444
+    },
+    "guard_insert_9.4_89": {
+      "valid": true,
+      "solids": 1,
+      "volume": 24.1274
+    },
+    "guard_screw_50.6_51": {
+      "valid": true,
+      "solids": 1,
+      "volume": 28.444
+    },
+    "guard_insert_50.6_51": {
+      "valid": true,
+      "solids": 1,
+      "volume": 24.1274
+    },
+    "guard_screw_50.6_89": {
+      "valid": true,
+      "solids": 1,
+      "volume": 28.444
+    },
+    "guard_insert_50.6_89": {
+      "valid": true,
+      "solids": 1,
+      "volume": 24.1274
+    },
+    "battery_guard": {
+      "valid": true,
+      "solids": 1,
+      "volume": 1643.1359
+    },
+    "speaker_screw_3": {
+      "valid": true,
+      "solids": 1,
+      "volume": 28.444
+    },
+    "speaker_insert_3": {
+      "valid": true,
+      "solids": 1,
+      "volume": 24.1274
+    },
+    "speaker_screw_33": {
+      "valid": true,
+      "solids": 1,
+      "volume": 28.444
+    },
+    "speaker_insert_33": {
+      "valid": true,
+      "solids": 1,
+      "volume": 24.1274
+    },
+    "speaker_retainer": {
+      "valid": true,
+      "solids": 1,
+      "volume": 373.6497
+    },
+    "speaker_rim_gasket": {
+      "valid": true,
+      "solids": 1,
+      "volume": 35.4372
+    },
+    "speaker_rear_foam": {
+      "valid": true,
+      "solids": 1,
+      "volume": 134.6612
+    },
+    "battery_foam": {
+      "valid": true,
+      "solids": 1,
+      "volume": 1380.0
+    },
+    "front_shell": {
+      "valid": true,
+      "solids": 1,
+      "volume": 21028.6045
+    },
+    "rear_shell": {
+      "valid": true,
+      "solids": 1,
+      "volume": 26237.4165
+    },
+    "lens": {
+      "valid": true,
+      "solids": 1,
+      "volume": 2032.4099
+    },
+    "REF_PCB": {
+      "valid": true,
+      "solids": 1,
+      "volume": 9420.0492
+    },
+    "REF_R3": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_J6": {
+      "valid": true,
+      "solids": 1,
+      "volume": 689.6595
+    },
+    "REF_F1": {
+      "valid": true,
+      "solids": 1,
+      "volume": 2.6141
+    },
+    "REF_LS1": {
+      "valid": true,
+      "solids": 1,
+      "volume": 58.0609
+    },
+    "REF_C29": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_C12": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_R5": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_C7": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_C13": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_C33": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_C1": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_R13": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_L3": {
+      "valid": true,
+      "solids": 1,
+      "volume": 2.8899
+    },
+    "REF_R6": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_R27": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_C17": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_C37": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_SW3": {
+      "valid": true,
+      "solids": 1,
+      "volume": 795.0499
+    },
+    "REF_SW4": {
+      "valid": true,
+      "solids": 1,
+      "volume": 795.0499
+    },
+    "REF_R20": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_C68": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_X2": {
+      "valid": true,
+      "solids": 1,
+      "volume": 21.4951
+    },
+    "REF_R11": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_C60": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_C6": {
+      "valid": true,
+      "solids": 1,
+      "volume": 106.6732
+    },
+    "REF_R10": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_R14": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_R28": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_C2": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_C42": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_R22": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_C48": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_C64": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_C25": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_C49": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_C31": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_C59": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_C61": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_R23": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_J1": {
+      "valid": true,
+      "solids": 14,
+      "volume": 125.8578
+    },
+    "REF_R16": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_C38": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_C16": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_L2": {
+      "valid": true,
+      "solids": 1,
+      "volume": 33.601
+    },
+    "REF_C20": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_J2": {
+      "valid": true,
+      "solids": 1,
+      "volume": 138.9032
+    },
+    "REF_C46": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_U1": {
+      "valid": true,
+      "solids": 5,
+      "volume": 802.096
+    },
+    "REF_C54": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_U2": {
+      "valid": true,
+      "solids": 1,
+      "volume": 14.8659
+    },
+    "REF_C45": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_BT1": {
+      "valid": true,
+      "solids": 1,
+      "volume": 85.1617
+    },
+    "REF_C3": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_C55": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_C36": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_C32": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_R7": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_C10": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_J4": {
+      "valid": true,
+      "solids": 1,
+      "volume": 29.7754
+    },
+    "REF_SW1": {
+      "valid": true,
+      "solids": 16,
+      "volume": 16.2269
+    },
+    "REF_U4": {
+      "valid": true,
+      "solids": 1,
+      "volume": 6.5947
+    },
+    "REF_R24": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_R31": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_L1": {
+      "valid": true,
+      "solids": 1,
+      "volume": 100.2572
+    },
+    "REF_D1": {
+      "valid": true,
+      "solids": 1,
+      "volume": 1.067
+    },
+    "REF_C56": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_C28": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_R35": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_U7": {
+      "valid": true,
+      "solids": 1,
+      "volume": 6.749
+    },
+    "REF_C11": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_C21": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_U3": {
+      "valid": true,
+      "solids": 1,
+      "volume": 25.7066
+    },
+    "REF_C14": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_R4": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_C40": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_C50": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_C35": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.0488
+    },
+    "REF_R30": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_R26": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_R32": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_C5": {
+      "valid": true,
+      "solids": 1,
+      "volume": 106.6732
+    },
+    "REF_R29": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_R18": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_C41": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_X1": {
+      "valid": true,
+      "solids": 1,
+      "volume": 3.509
+    },
+    "REF_C4": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_R19": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_R36": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_R1": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_C30": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_C57": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_R34": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_R12": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_C47": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_C8": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_D3": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.225
+    },
+    "REF_C22": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_C52": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_FPC1": {
+      "valid": true,
+      "solids": 1,
+      "volume": 127.5675
+    },
+    "REF_R2": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_R8": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_C24": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_C27": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_U10": {
+      "valid": true,
+      "solids": 1,
+      "volume": 384.2253
+    },
+    "REF_C15": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_U9": {
+      "valid": true,
+      "solids": 1,
+      "volume": 6.9315
+    },
+    "REF_R15": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_Q1": {
+      "valid": true,
+      "solids": 1,
+      "volume": 7.6243
+    },
+    "REF_R21": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_C51": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_C34": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_C63": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_C18": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_J3": {
+      "valid": true,
+      "solids": 14,
+      "volume": 3.2104
+    },
+    "REF_C43": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_D2": {
+      "valid": true,
+      "solids": 1,
+      "volume": 4.4445
+    },
+    "REF_C9": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_U5": {
+      "valid": true,
+      "solids": 1,
+      "volume": 3.151
+    },
+    "REF_R17": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_C39": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_U6": {
+      "valid": true,
+      "solids": 1,
+      "volume": 6.5047
+    },
+    "REF_C67": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_IC1": {
+      "valid": true,
+      "solids": 23,
+      "volume": 5.3171
+    },
+    "REF_C66": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_R25": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_C53": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_C62": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_C44": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_C19": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_R9": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.5372
+    },
+    "REF_C58": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_C65": {
+      "valid": true,
+      "solids": 1,
+      "volume": 0.9304
+    },
+    "REF_LCD_envelope": {
+      "valid": true,
+      "solids": 1,
+      "volume": 3844.078
+    },
+    "REF_SW2_PEC11L_envelope": {
+      "valid": true,
+      "solids": 1,
+      "volume": 1294.4813
+    },
+    "REF_BATTERY_34x50x10": {
+      "valid": true,
+      "solids": 1,
+      "volume": 17000.0
+    },
+    "REF_SPEAKER_C50387209": {
+      "valid": true,
+      "solids": 1,
+      "volume": 1602.2123
+    },
+    "REF_SMA_female_bulkhead_ENVELOPE": {
+      "valid": true,
+      "solids": 1,
+      "volume": 295.4805
+    },
+    "REF_SMA_washer_nut_ENVELOPE": {
+      "valid": true,
+      "solids": 1,
+      "volume": 54.7815
+    },
+    "REF_FM_antenna_hinge_UNVERIFIED": {
+      "valid": true,
+      "solids": 1,
+      "volume": 508.938
+    },
+    "REF_FM_antenna_collapsed_BOUND": {
+      "valid": true,
+      "solids": 1,
+      "volume": 6679.8114
+    },
+    "REF_FM_100mm_RF113_coax": {
+      "valid": true,
+      "solids": 1,
+      "volume": 87.0274
+    },
+    "REF_J3_mated_UFL_ENVELOPE": {
+      "valid": true,
+      "solids": 1,
+      "volume": 13.2701
+    },
+    "CHECK_USB_C_13x7_plug_corridor": {
+      "valid": true,
+      "solids": 1,
+      "volume": 1692.6
+    },
+    "CHECK_headphone_11mm_overmould_corridor": {
+      "valid": true,
+      "solids": 1,
+      "volume": 2280.7963
+    },
+    "CHECK_microSD_insertion_corridor": {
+      "valid": true,
+      "solids": 1,
+      "volume": 1479.0
+    },
+    "CHECK_microSD_finger_access": {
+      "valid": true,
+      "solids": 1,
+      "volume": 5850.0
+    },
+    "CHECK_FPC_route_UNVERIFIED": {
+      "valid": true,
+      "solids": 1,
+      "volume": 308.25
+    },
+    "CHECK_FM_cable_clearance_R4": {
+      "valid": true,
+      "solids": 1,
+      "volume": 253.8714
+    },
+    "CHECK_FM_fold_pose_00": {
+      "valid": true,
+      "solids": 1,
+      "volume": 6679.8114
+    },
+    "CHECK_FM_fold_pose_15": {
+      "valid": true,
+      "solids": 1,
+      "volume": 6679.8114
+    },
+    "CHECK_FM_fold_pose_30": {
+      "valid": true,
+      "solids": 1,
+      "volume": 6679.8114
+    },
+    "CHECK_FM_fold_pose_45": {
+      "valid": true,
+      "solids": 1,
+      "volume": 6679.8114
+    },
+    "CHECK_FM_fold_pose_60": {
+      "valid": true,
+      "solids": 1,
+      "volume": 6679.8114
+    },
+    "CHECK_FM_fold_pose_75": {
+      "valid": true,
+      "solids": 1,
+      "volume": 6679.8114
+    },
+    "CHECK_FM_fold_pose_90": {
+      "valid": true,
+      "solids": 1,
+      "volume": 6679.8114
+    },
+    "CHECK_FM_extended_outward": {
+      "valid": true,
+      "solids": 1,
+      "volume": 19721.3479
+    }
+  },
+  "stl": {
+    "display_carrier.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "volume": 373.4531101841071
+    },
+    "button_left.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "volume": 531.8264418724594
+    },
+    "button_right.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "volume": 531.8264419355586
+    },
+    "encoder_knob.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "volume": 4384.6584521586
+    },
+    "battery_guard.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "volume": 1643.119301561642
+    },
+    "speaker_retainer.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "volume": 373.5251561101689
+    },
+    "front_shell.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "volume": 22415.037643551983
+    },
+    "rear_shell.stl": {
+      "watertight": true,
+      "winding_consistent": true,
+      "bodies": 1,
+      "volume": 30428.238949381823
+    }
+  },
+  "shell_to_reference": [
+    {
+      "part": "front_shell",
+      "ref": "REF_PCB",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R3",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_J6",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_F1",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_LS1",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C29",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C12",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R5",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C7",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C13",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C33",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C1",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R13",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_L3",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R6",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R27",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C17",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C37",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_SW3",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_SW4",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R20",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C68",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_X2",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R11",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C60",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C6",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R10",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R14",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R28",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C2",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C42",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R22",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C48",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C64",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C25",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C49",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C31",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C59",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C61",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R23",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_J1",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R16",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C38",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C16",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_L2",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C20",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_J2",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C46",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_U1",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C54",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_U2",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C45",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_BT1",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C3",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C55",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C36",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C32",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R7",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C10",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_J4",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_SW1",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_U4",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R24",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R31",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_L1",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_D1",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C56",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C28",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R35",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_U7",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C11",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C21",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_U3",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C14",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R4",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C40",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C50",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C35",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R30",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R26",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R32",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C5",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R29",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R18",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C41",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_X1",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C4",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R19",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R36",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R1",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C30",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C57",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R34",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R12",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C47",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C8",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_D3",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C22",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C52",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_FPC1",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R2",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R8",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C24",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C27",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_U10",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C15",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_U9",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R15",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_Q1",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R21",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C51",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C34",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C63",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C18",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_J3",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C43",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_D2",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C9",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_U5",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R17",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C39",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_U6",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C67",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_IC1",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C66",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R25",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C53",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C62",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C44",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C19",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_R9",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C58",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_C65",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_LCD_envelope",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_SW2_PEC11L_envelope",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_FM_100mm_RF113_coax",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "front_shell",
+      "ref": "REF_J3_mated_UFL_ENVELOPE",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "rear_shell",
+      "ref": "REF_J6",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "rear_shell",
+      "ref": "REF_BT1",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "rear_shell",
+      "ref": "REF_J4",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "rear_shell",
+      "ref": "REF_BATTERY_34x50x10",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "rear_shell",
+      "ref": "REF_SPEAKER_C50387209",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "rear_shell",
+      "ref": "REF_SMA_female_bulkhead_ENVELOPE",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "rear_shell",
+      "ref": "REF_SMA_washer_nut_ENVELOPE",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "rear_shell",
+      "ref": "REF_FM_antenna_hinge_UNVERIFIED",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "rear_shell",
+      "ref": "REF_FM_antenna_collapsed_BOUND",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "rear_shell",
+      "ref": "REF_FM_100mm_RF113_coax",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "display_carrier",
+      "ref": "REF_LCD_envelope",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "battery_guard",
+      "ref": "REF_FM_100mm_RF113_coax",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "button_left",
+      "ref": "REF_SW3",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "button_right",
+      "ref": "REF_SW4",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "encoder_knob",
+      "ref": "REF_SW3",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "encoder_knob",
+      "ref": "REF_SW4",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    },
+    {
+      "part": "encoder_knob",
+      "ref": "REF_SW2_PEC11L_envelope",
+      "intersection_mm3": 0,
+      "distance_mm": null,
+      "status": "NO_OVERLAP - minimum clearance not measured"
+    }
+  ],
+  "printed_part_pairs": [],
+  "corridors": [
+    {
+      "corridor": "CHECK_USB_C_13x7_plug_corridor",
+      "shell": "front_shell",
+      "intersection_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "corridor": "CHECK_USB_C_13x7_plug_corridor",
+      "shell": "rear_shell",
+      "intersection_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "corridor": "CHECK_headphone_11mm_overmould_corridor",
+      "shell": "front_shell",
+      "intersection_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "corridor": "CHECK_headphone_11mm_overmould_corridor",
+      "shell": "rear_shell",
+      "intersection_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "corridor": "CHECK_microSD_insertion_corridor",
+      "shell": "front_shell",
+      "intersection_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "corridor": "CHECK_microSD_insertion_corridor",
+      "shell": "rear_shell",
+      "intersection_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "corridor": "CHECK_microSD_finger_access",
+      "shell": "front_shell",
+      "intersection_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "corridor": "CHECK_microSD_finger_access",
+      "shell": "rear_shell",
+      "intersection_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "corridor": "CHECK_FPC_route_UNVERIFIED",
+      "shell": "front_shell",
+      "intersection_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "corridor": "CHECK_FPC_route_UNVERIFIED",
+      "shell": "rear_shell",
+      "intersection_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "corridor": "CHECK_FM_cable_clearance_R4",
+      "shell": "front_shell",
+      "intersection_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "corridor": "CHECK_FM_cable_clearance_R4",
+      "shell": "rear_shell",
+      "intersection_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "corridor": "CHECK_FM_fold_pose_00",
+      "shell": "front_shell",
+      "intersection_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "corridor": "CHECK_FM_fold_pose_00",
+      "shell": "rear_shell",
+      "intersection_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "corridor": "CHECK_FM_fold_pose_15",
+      "shell": "front_shell",
+      "intersection_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "corridor": "CHECK_FM_fold_pose_15",
+      "shell": "rear_shell",
+      "intersection_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "corridor": "CHECK_FM_fold_pose_30",
+      "shell": "front_shell",
+      "intersection_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "corridor": "CHECK_FM_fold_pose_30",
+      "shell": "rear_shell",
+      "intersection_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "corridor": "CHECK_FM_fold_pose_45",
+      "shell": "front_shell",
+      "intersection_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "corridor": "CHECK_FM_fold_pose_45",
+      "shell": "rear_shell",
+      "intersection_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "corridor": "CHECK_FM_fold_pose_60",
+      "shell": "front_shell",
+      "intersection_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "corridor": "CHECK_FM_fold_pose_60",
+      "shell": "rear_shell",
+      "intersection_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "corridor": "CHECK_FM_fold_pose_75",
+      "shell": "front_shell",
+      "intersection_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "corridor": "CHECK_FM_fold_pose_75",
+      "shell": "rear_shell",
+      "intersection_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "corridor": "CHECK_FM_fold_pose_90",
+      "shell": "front_shell",
+      "intersection_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "corridor": "CHECK_FM_fold_pose_90",
+      "shell": "rear_shell",
+      "intersection_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "corridor": "CHECK_FM_extended_outward",
+      "shell": "front_shell",
+      "intersection_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "corridor": "CHECK_FM_extended_outward",
+      "shell": "rear_shell",
+      "intersection_mm3": 0.0,
+      "status": "CLEAR"
+    }
+  ]
+}

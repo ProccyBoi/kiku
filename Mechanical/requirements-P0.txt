@@ -1,0 +1,5 @@
+cadquery==2.8.0
+vtk==9.6.2
+trimesh==5.1.0
+Pillow==12.3.0
+numpy==2.5.3

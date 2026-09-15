@@ -1,0 +1,169 @@
+{
+  "method": "Exact Boolean at discrete control end positions; conservative AABB separation for antenna and screw broad phase. Nominal geometry only; tolerance and continuous motion not certified.",
+  "motion": [
+    {
+      "part": "button_left",
+      "translation_z_mm": 0,
+      "front_shell_overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "button_left",
+      "translation_z_mm": -0.5,
+      "front_shell_overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "button_left",
+      "translation_z_mm": -1.0,
+      "front_shell_overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "button_right",
+      "translation_z_mm": 0,
+      "front_shell_overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "button_right",
+      "translation_z_mm": -0.5,
+      "front_shell_overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "button_right",
+      "translation_z_mm": -1.0,
+      "front_shell_overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "encoder_knob",
+      "translation_z_mm": 0,
+      "front_shell_overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "encoder_knob",
+      "translation_z_mm": -0.45,
+      "front_shell_overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "encoder_knob",
+      "translation_z_mm": -0.9,
+      "front_shell_overlap_mm3": 0.0,
+      "status": "CLEAR"
+    }
+  ],
+  "fastener_to_reference": [
+    {
+      "fastener": "PCB_screw_H5",
+      "reference": "REF_PCB",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "fastener": "PCB_screw_H6",
+      "reference": "REF_PCB",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "fastener": "PCB_screw_H7",
+      "reference": "REF_PCB",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "fastener": "PCB_screw_H8",
+      "reference": "REF_PCB",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "fastener": "knob_insert",
+      "reference": "REF_SW2_PEC11L_envelope",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "fastener": "knob_grub_screw",
+      "reference": "REF_SW2_PEC11L_envelope",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    }
+  ],
+  "antenna": {
+    "trace_bounds_mm": [
+      55.34,
+      4.78,
+      2.2,
+      58.74,
+      16.78,
+      2.3
+    ],
+    "source": "Antenna trace solids in supplied BM83 STEP",
+    "required_mm": 15,
+    "conservative_separations_mm": {
+      "lcd_screw_0.7_72": 75.221,
+      "lcd_insert_0.7_72": 75.844,
+      "lcd_screw_0.7_91": 89.696,
+      "lcd_insert_0.7_91": 90.282,
+      "lcd_screw_59.3_72": 53.635,
+      "lcd_insert_59.3_72": 54.214,
+      "lcd_screw_59.3_91": 72.552,
+      "lcd_insert_59.3_91": 73.059,
+      "PCB_screw_H5": 93.284,
+      "PCB_insert_H5": 93.695,
+      "PCB_screw_H6": 80.32,
+      "PCB_insert_H6": 80.62,
+      "PCB_screw_H7": 50.854,
+      "PCB_insert_H7": 51.243,
+      "PCB_screw_H8": 18.32,
+      "PCB_insert_H8": 18.62,
+      "case_screw_1": 59.815,
+      "case_insert_1": 60.192,
+      "case_screw_2": 18.471,
+      "case_insert_2": 18.809,
+      "case_screw_3": 83.68,
+      "case_insert_3": 84.104,
+      "case_screw_4": 61.365,
+      "case_insert_4": 61.677,
+      "knob_insert": 32.768,
+      "knob_grub_screw": 33.894,
+      "guard_screw_9.4_51": 54.759,
+      "guard_insert_9.4_51": 55.372,
+      "guard_screw_9.4_89": 83.059,
+      "guard_insert_9.4_89": 83.602,
+      "guard_screw_50.6_51": 32.666,
+      "guard_insert_50.6_51": 33.316,
+      "guard_screw_50.6_89": 70.48,
+      "guard_insert_50.6_89": 70.944,
+      "speaker_screw_3": 51.222,
+      "speaker_insert_3": 51.922,
+      "speaker_screw_33": 22.3,
+      "speaker_insert_33": 23.484,
+      "REF_BATTERY_34x50x10": 30.343,
+      "REF_SPEAKER_C50387209": 29.818
+    }
+  },
+  "external_envelope_mm": {
+    "method": "Exported STL vertex extrema; mesh tolerance 0.08 mm",
+    "min": [
+      -9.559160232543945,
+      -7.7022271156311035,
+      -18.0
+    ],
+    "max": [
+      67.57594299316406,
+      113.1857681274414,
+      28.799999237060547
+    ],
+    "width_height_depth": [
+      77.135,
+      120.888,
+      46.8
+    ]
+  }
+}

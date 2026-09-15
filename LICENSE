@@ -1,0 +1,48 @@
+kiku mixed-licence notice
+==========================
+
+This repository contains both hardware-design material and software. Project-
+authored material is licensed by scope as follows.
+
+1. CERN Open Hardware Licence Version 2 - Permissive (CERN-OHL-P-2.0)
+
+   Applies to project-authored hardware, electronics and mechanical design
+   material, including the root KiCad project, project-authored manufacturing
+   outputs, Mechanical/ design files and exports, and hardware/mechanical
+   documentation, except for software/scripts and material carrying a separate
+   upstream licence notice.
+
+   Full text: LICENSES/CERN-OHL-P-2.0.txt
+
+2. MIT License
+
+   Applies to project-authored software and scripts, including Firmware/ code,
+   Mechanical/scripts/, and .github/workflows/, except for files or portions
+   carrying a separate upstream licence notice.
+
+   Full text: LICENSES/MIT.txt
+
+3. General project documentation
+
+   The root README and other project-authored documentation that spans both the
+   hardware and software portions may be used under either CERN-OHL-P-2.0 or the
+   MIT License, at your option, unless the file states otherwise.
+
+Third-party material
+--------------------
+
+Third-party code, submodules and files or portions with their own copyright or
+licence notices remain under those upstream terms. This includes, without
+limitation, STM32/CMSIS material, FreeRTOS, FatFs, minimp3 and any other upstream
+material identified by an in-file notice or licence file. Nothing in this notice
+relicenses third-party material.
+
+Component/vendor CAD, BM83 firmware/configuration tools and other excluded
+third-party assets described in README.md and Mechanical/REFERENCE_GEOMETRY.md
+are not distributed as project-owned material and are not covered by this
+licence grant.
+
+SPDX licence identifiers used by this repository:
+
+  CERN-OHL-P-2.0
+  MIT

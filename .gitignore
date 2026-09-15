@@ -1,0 +1,78 @@
+# KiCad local/cache files
+*-backups/
+*.kicad_prl
+fp-info-cache
+~*.lck
+
+# Generated manufacturing/archive outputs
+Production.zip
+
+# Firmware build outputs
+Firmware/build/
+Firmware/.cache/
+Firmware/compile_commands.json
+Firmware/tests/build/
+
+# Local firmware/UI verification scratch files
+.tmp_*
+.3d_verify_*.jpg
+ui_frame*.bin
+Firmwarebuildui_frame.bin
+*readback*.bin
+
+# Generated mechanical handoff/upload bundles. Keep the source, exports and
+# review assets in Git; these archives/directories are reproducible copies.
+Mechanical/upload/
+Mechanical/Kiku_Mame_*_design_package/
+Mechanical/Kiku_Mame_*_package.zip
+Mechanical/**/*.brep
+Mechanical/exports/**/_debug_*
+# Local mechanical fit-check exports below contain transformed component-library
+# or vendor 3D geometry. They are reproducible locally after obtaining those
+# inputs under their original terms, but are not redistributable project output.
+Mechanical/reference/pcb_populated.step
+Mechanical/exports/P0/Kiku_P0_assembly.step
+Mechanical/exports/P1/Kiku_P1_assembly.step
+Mechanical/exports/P1/Kiku_P1_antenna_extended.step
+Mechanical/exports/kiku_fit_check_with_pcb_v*.step
+
+# Tool-generated programming/configuration logs
+Firmware/BM83_tools/*.log
+
+# Microchip BM83 vendor tools, documentation, radio images and generated
+# configuration are intentionally kept outside the public source tree. The
+# production radio package is archived separately with manufacturing records.
+Firmware/BM83_tools/*
+!Firmware/BM83_tools/README.md
+Firmware/BM83_eeprom_*.bin
+
+# Third-party component/reference assets are useful on the engineering
+# workstation but are not part of the redistributable public-source tree unless
+# their provenance and licence are explicitly recorded. Keep public-safe notes
+# and project-derived geometry in Git; obtain vendor assets from their source.
+3dmodels/*
+!3dmodels/README.md
+SI4705-D60-GM.stp
+Mechanical/reference/C50387209.pdf
+Mechanical/reference/C50387209.txt
+Mechanical/reference/HS20HS072RX.pdf
+Mechanical/reference/PEC11L.pdf
+Mechanical/reference/encoder_drawing.png
+Mechanical/reference/lcd_drawing.png
+Mechanical/reference/speaker_drawing.png
+Mechanical/reference/ali_antenna/*.html
+Mechanical/reference/ali_antenna/*.jpg
+
+# IDE / OS
+.vscode/.browse.c_cpp.db*
+.idea/
+.DS_Store
+Thumbs.db
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Temporary CubeMX probe
+_cubemx_probe/
+cubemx_probe.txt

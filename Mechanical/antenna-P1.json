@@ -1,0 +1,62 @@
+{
+  "revision": "P1 antenna integration - prototype",
+  "pigtail_length_mm": 100,
+  "pigtail_variant": "U.FL to standard SMA female, user confirmed",
+  "coax_diameter_mm": 1.13,
+  "routing_bend_radius_mm": 4.0,
+  "bend_radius_supplier_confirmed": false,
+  "bulkhead_thread_diameter_mm": 6.35,
+  "bulkhead_hole_diameter_mm": 6.8,
+  "bulkhead_face_x_mm": -10.5,
+  "bulkhead_y_mm": 96.0,
+  "bulkhead_z_mm": -9.0,
+  "panel_land_thickness_mm": 3.0,
+  "fitting_dimensions_confirmed": false,
+  "antenna_collapsed_overall_mm": 105,
+  "antenna_extended_overall_mm": 310,
+  "antenna_diameter_mm": 9,
+  "hinge_offset_from_panel_mm": 12,
+  "hinge_offset_confirmed": false,
+  "cradle_y_mm": [
+    45,
+    72
+  ],
+  "stowed_rod_direction": "down the left side",
+  "route_points_mm": [
+    [
+      58.155,
+      66.55,
+      4.5
+    ],
+    [
+      62.5,
+      66.55,
+      4.5
+    ],
+    [
+      62.5,
+      74,
+      -1.8
+    ],
+    [
+      50,
+      80,
+      -1.8
+    ],
+    [
+      4,
+      96,
+      -1.8
+    ],
+    [
+      -1,
+      96,
+      -9
+    ],
+    [
+      -5.5,
+      96,
+      -9
+    ]
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "revision": "P1 antenna integration",
+  "geometry": {
+    "route_length_mm": 86.7779388644945,
+    "nominal_cable_length_mm": 100,
+    "length_remainder_mm": 13.222061135505498,
+    "bend_radius_mm": 4.0,
+    "guide_locations_mm": [
+      [
+        58.91700289784386,
+        75.71983860903495,
+        -1.8
+      ],
+      [
+        8.525484869668439,
+        94.42591830620228,
+        -1.8
+      ]
+    ],
+    "removed_guide_slivers": [
+      {
+        "volume_mm3": 0.0016417516293658655,
+        "bounds_mm": [
+          57.7469,
+          76.96619,
+          -1.43746,
+          58.067,
+          77.11984,
+          -1.2
+        ]
+      },
+      {
+        "volume_mm3": 0.0010855998151547309,
+        "bounds_mm": [
+          59.767,
+          74.31984,
+          -1.41559,
+          59.9941,
+          74.46663,
+          -1.2
+        ]
+      }
+    ],
+    "pivot_mm": [
+      -22.5,
+      96.0,
+      -9.0
+    ],
+    "qualifier": "105/310 mm overall lengths conservatively used as complete rod envelopes; hinge and fittings not fully dimensioned by listing. 100 mm usable cable measurement and minimum bend radius require hardware confirmation."
+  },
+  "cable_to_hardware": [
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "case_screw_3",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "case_insert_3",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "case_screw_4",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "case_insert_4",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "guard_screw_9.4_89",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "guard_insert_9.4_89",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "guard_screw_50.6_89",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "guard_insert_50.6_89",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "battery_guard",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_PCB",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_C33",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_R27",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_R20",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_X2",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_C60",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_C42",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_R22",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_C64",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_C59",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_C61",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_R23",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_J2",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_C46",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_C54",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_C32",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_J4",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_R24",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_R31",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_C56",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_C35",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_R30",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_R26",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_R29",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_X1",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_R19",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_C57",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_C47",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_D3",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_FPC1",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_U10",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_Q1",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_R21",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_C63",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_J3",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_C43",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_R17",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_C39",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_C67",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_IC1",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_C66",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_R25",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_C53",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_C62",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_C44",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_C58",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_C65",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    },
+    {
+      "part": "REF_FM_100mm_RF113_coax",
+      "against": "REF_BATTERY_34x50x10",
+      "overlap_mm3": 0.0,
+      "status": "CLEAR"
+    }
+  ],
+  "new_fittings_to_hardware": [],
+  "antenna_to_other_hardware": [],
+  "rf_separation": {
+    "REF_SMA_female_bulkhead_ENVELOPE": 96.589,
+    "REF_SMA_washer_nut_ENVELOPE": 99.814,
+    "REF_FM_antenna_hinge_UNVERIFIED": 102.497,
+    "REF_FM_antenna_collapsed_BOUND": 73.645,
+    "REF_FM_100mm_RF113_coax": 49.205,
+    "REF_J3_mated_UFL_ENVELOPE": 48.173,
+    "CHECK_FM_fold_pose_00": 73.645,
+    "CHECK_FM_fold_pose_15": 73.798,
+    "CHECK_FM_fold_pose_30": 74.246,
+    "CHECK_FM_fold_pose_45": 74.979,
+    "CHECK_FM_fold_pose_60": 79.244,
+    "CHECK_FM_fold_pose_75": 90.548,
+    "CHECK_FM_fold_pose_90": 108.107,
+    "CHECK_FM_extended_outward": 108.107
+  },
+  "exceptions": [
+    "Cable at its U.FL mating envelope and SMA tail is intentional connection; excluded from cable interference checks.",
+    "Reference antenna hinge and fitting shapes are conservative/provisional, not manufacturer CAD."
+  ],
+  "method": "Exact BREP intersections for overlapping bounding boxes; bounding-box separation skips nonadjacent pairs. Conservative trace-to-metal AABB distances. Physical retention strength, fit and RF performance not certified.",
+  "rf_separation_requirement_mm": 15,
+  "rf_min_mm": 48.173,
+  "rf_geometric_status": "PASS"
+}

@@ -1,0 +1,12 @@
+[submodule "Firmware/vendor/STM32H5xx_HAL_Driver"]
+	path = Firmware/vendor/STM32H5xx_HAL_Driver
+	url = https://github.com/STMicroelectronics/stm32h5xx-hal-driver.git
+[submodule "Firmware/vendor/CMSIS_Device_H5"]
+	path = Firmware/vendor/CMSIS_Device_H5
+	url = https://github.com/STMicroelectronics/cmsis_device_h5.git
+[submodule "Firmware/vendor/FreeRTOS-Kernel"]
+	path = Firmware/vendor/FreeRTOS-Kernel
+	url = https://github.com/FreeRTOS/FreeRTOS-Kernel.git
+[submodule "Firmware/vendor/minimp3"]
+	path = Firmware/vendor/minimp3
+	url = https://github.com/lieff/minimp3.git

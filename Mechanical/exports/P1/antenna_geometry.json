@@ -1,0 +1,48 @@
+{
+  "route_length_mm": 86.7779388644945,
+  "nominal_cable_length_mm": 100,
+  "length_remainder_mm": 13.222061135505498,
+  "bend_radius_mm": 4.0,
+  "guide_locations_mm": [
+    [
+      58.91700289784386,
+      75.71983860903495,
+      -1.8
+    ],
+    [
+      8.525484869668439,
+      94.42591830620228,
+      -1.8
+    ]
+  ],
+  "removed_guide_slivers": [
+    {
+      "volume_mm3": 0.0016417516293658655,
+      "bounds_mm": [
+        57.7469,
+        76.96619,
+        -1.43746,
+        58.067,
+        77.11984,
+        -1.2
+      ]
+    },
+    {
+      "volume_mm3": 0.0010855998151547309,
+      "bounds_mm": [
+        59.767,
+        74.31984,
+        -1.41559,
+        59.9941,
+        74.46663,
+        -1.2
+      ]
+    }
+  ],
+  "pivot_mm": [
+    -22.5,
+    96.0,
+    -9.0
+  ],
+  "qualifier": "105/310 mm overall lengths conservatively used as complete rod envelopes; hinge and fittings not fully dimensioned by listing. 100 mm usable cable measurement and minimum bend radius require hardware confirmation."
+}

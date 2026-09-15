@@ -1,0 +1,270 @@
+{
+  "kiku_front_shell_external_speaker_v7": {
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 17716.147,
+    "bbox_mm": {
+      "xmin": -4.5,
+      "xmax": 64.5,
+      "ymin": -5.0,
+      "ymax": 110.0,
+      "zmin": 0.56,
+      "zmax": 15.2,
+      "xlen": 69.0,
+      "ylen": 115.0,
+      "zlen": 14.64
+    }
+  },
+  "kiku_rear_shell_smooth_stand_v7": {
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 26638.212,
+    "bbox_mm": {
+      "xmin": -5.7,
+      "xmax": 64.5,
+      "ymin": -5.0,
+      "ymax": 110.0,
+      "zmin": -13.9,
+      "zmax": 1.5,
+      "xlen": 70.2,
+      "ylen": 115.0,
+      "zlen": 15.4
+    }
+  },
+  "kiku_kickstand_v7": {
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 1066.913,
+    "bbox_mm": {
+      "xmin": 9.0,
+      "xmax": 51.0,
+      "ymin": 28.0,
+      "ymax": 89.0,
+      "zmin": -13.6,
+      "zmax": -9.6,
+      "xlen": 42.0,
+      "ylen": 61.0,
+      "zlen": 4.0
+    }
+  },
+  "kiku_screen_lens_v7": {
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 1687.619,
+    "bbox_mm": {
+      "xmin": 3.01,
+      "xmax": 57.01,
+      "ymin": 63.085,
+      "ymax": 102.685,
+      "zmin": 14.4,
+      "zmax": 15.2,
+      "xlen": 54.0,
+      "ylen": 39.6,
+      "zlen": 0.8
+    }
+  },
+  "kiku_button_left_v7": {
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 521.246,
+    "bbox_mm": {
+      "xmin": 9.016,
+      "xmax": 22.984,
+      "ymin": 49.18,
+      "ymax": 60.82,
+      "zmin": 12.0,
+      "zmax": 18.05,
+      "xlen": 13.969,
+      "ylen": 11.641,
+      "zlen": 6.05
+    }
+  },
+  "kiku_button_right_v7": {
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 521.246,
+    "bbox_mm": {
+      "xmin": 37.016,
+      "xmax": 50.984,
+      "ymin": 49.18,
+      "ymax": 60.82,
+      "zmin": 12.0,
+      "zmax": 18.05,
+      "xlen": 13.969,
+      "ylen": 11.641,
+      "zlen": 6.05
+    }
+  },
+  "kiku_encoder_knob_v7": {
+    "valid": true,
+    "solid_count": 1,
+    "volume_mm3": 1951.663,
+    "bbox_mm": {
+      "xmin": 20.0,
+      "xmax": 40.0,
+      "ymin": 30.0,
+      "ymax": 50.0,
+      "zmin": 15.3,
+      "zmax": 22.35,
+      "xlen": 20.0,
+      "ylen": 20.0,
+      "zlen": 7.05
+    }
+  },
+  "design": {
+    "case_nominal_mm": [
+      69.0,
+      115.0,
+      28.7
+    ],
+    "rear_surface": "uniform smooth back; no battery hump",
+    "rear_back_wall_mm": 3.0,
+    "wall_mm": 1.8,
+    "pcb_mm": [
+      60.0,
+      105.0,
+      1.6
+    ],
+    "speaker": {
+      "internal": false,
+      "external_only": true,
+      "pcb_connector": "LS1 PicoBlade 1.25 mm",
+      "cable_egress_diameter_mm": 4.4,
+      "cable_egress_yz_mm": [
+        26.4,
+        4.2
+      ],
+      "egress_blockage_volume_mm3": 0.0
+    },
+    "battery_reserve_mm": [
+      34.0,
+      50.0,
+      10.0
+    ],
+    "battery_capacity_mah_as_supplied": 200,
+    "rf_keepout_xy_mm": [
+      37.0,
+      0.0,
+      27.0,
+      31.0
+    ],
+    "source_board_sha256": "e379b56e20437a8a069df339ec05ec0a8a837af501f7166cb1e6cedd2d5fbccf",
+    "populated_pcb_collision_volume_mm3": {
+      "front_shell": 0.0,
+      "rear_shell": 0.0
+    },
+    "front_rear_collision_volume_mm3": 0.0,
+    "headphone_opening": {
+      "jack_ref": "J6",
+      "bore_axis_xyz_mm": [
+        7.57,
+        null,
+        4.1
+      ],
+      "connector_mouth_y_mm": -2.29,
+      "overmould_diameter_mm": 11.0,
+      "overmould_y_range_mm": [
+        -6.5,
+        -1.9
+      ],
+      "shaft_clearance_diameter_mm": 6.5,
+      "shaft_y_range_mm": [
+        -2.1,
+        4.5
+      ],
+      "front_shell_blockage_volume_mm3": 0.0,
+      "rear_shell_blockage_volume_mm3": 0.0
+    },
+    "controls": {
+      "tactile_buttons": {
+        "style": "paired soft pebble caps",
+        "assembly": "press on from outside after PCB/front-shell assembly",
+        "switch_refs": [
+          "SW3",
+          "SW4"
+        ],
+        "switch_actuator_mm": [
+          7.2,
+          7.2
+        ],
+        "split_socket_outer_mm": 9.4,
+        "split_socket_nominal_inner_mm": 7.05,
+        "left_rotation_deg": -7.0,
+        "right_rotation_deg": 7.0,
+        "shell_collision_rest_mm3": [
+          0.0,
+          0.0
+        ],
+        "shell_collision_at_0p5mm_press_mm3": [
+          0.0,
+          0.0
+        ],
+        "intentional_actuator_interference_mm3": [
+          0.075163,
+          0.075163
+        ]
+      },
+      "encoder": {
+        "ref": "SW2",
+        "part": "PEC11L-4120F-S0020",
+        "shaft": "6.0 mm 18-tooth knurled",
+        "retention": "blind split-collet press fit",
+        "nominal_bore_mm": 5.75,
+        "lead_in_mm": 6.35,
+        "shaft_end_clearance_mm": 0.5,
+        "optional_shell_support": "M7x0.75 encoder bushing/nut hidden under knob",
+        "nut_recess_diameter_mm": 12.4,
+        "nut_recess_depth_mm": 1.1,
+        "shell_collision_rest_mm3": 0.0,
+        "shell_collision_at_0p5mm_press_mm3": 0.0
+      }
+    },
+    "qon_sw1_external_actuator": false,
+    "kickstand": {
+      "type": "recessed multimeter-style rear frame",
+      "outer_mm": [
+        42.0,
+        56.0,
+        1.4
+      ],
+      "recess_mm": [
+        48.0,
+        64.5,
+        1.7
+      ],
+      "hinge_pin_diameter_mm": 1.9,
+      "suggested_pin": "1.75 mm filament or similar smooth pin",
+      "nominal_open_angle_deg": 62.0,
+      "closed_shell_collision_volume_mm3": 0.0,
+      "open_shell_collision_volume_mm3": 0.0
+    },
+    "fm_external_antenna": {
+      "board_connector": "J3 U.FL",
+      "ufl_xy_mm": [
+        57.395,
+        66.55
+      ],
+      "pigtail": "RF1.13 U.FL/IPX to SMA bulkhead",
+      "pigtail_nominal_length_mm": 100.0,
+      "reserved_route_length_mm": 88.3,
+      "minimum_design_bend_radius_mm": 5.0,
+      "sma_bulkhead_side": "left",
+      "sma_bulkhead_yz_mm": [
+        18.0,
+        -5.6
+      ],
+      "sma_mount_hole_diameter_mm": 6.8,
+      "sma_reinforcement_boss_diameter_mm": 12.0,
+      "field_rework_note": "Boss has enough material for cautious enlargement if the delivered antenna is not the SMA variant shown by the listing title",
+      "sma_corridor_blockage_volume_mm3": 0.0,
+      "antenna_collapsed_mm": 105.0,
+      "antenna_extended_mm": 310.0,
+      "antenna_body_diameter_mm": 9.0,
+      "stow": "hinged upward along left side; slight diagonal cant available if required",
+      "reserved_side_stow_y_mm": [
+        18.0,
+        107.0
+      ]
+    }
+  }
+}

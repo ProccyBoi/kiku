@@ -1,0 +1,13 @@
+{
+  "method": "STL vertex extrema for manufactured housing; conservative antenna BREP bounds. Approximate, hinge offset provisional.",
+  "housing_with_saddles_width_height_depth_mm": [
+    90.076,
+    120.889,
+    46.8
+  ],
+  "folded_reserved_width_height_depth_mm": [
+    94.576,
+    122.187,
+    46.8
+  ]
+}

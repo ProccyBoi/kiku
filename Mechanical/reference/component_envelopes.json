@@ -1,0 +1,1864 @@
+[
+  {
+    "ref": "R3",
+    "value": "10k",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      29.72,
+      19.48,
+      1.6,
+      31.32,
+      20.28,
+      2.05
+    ]
+  },
+  {
+    "ref": "J6",
+    "value": "AudioJack3_SwitchTR",
+    "source": "${KICAD9_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_3.5mm_CUI_SJ1-3525N_Horizontal.step",
+    "kind": "STEP solid",
+    "bounds": [
+      1.57,
+      -2.29,
+      -1.7,
+      13.57,
+      12.01,
+      7.1
+    ]
+  },
+  {
+    "ref": "F1",
+    "value": "Polyfuse",
+    "source": "${KICAD9_3DMODEL_DIR}/Fuse.3dshapes/Fuse_1206_3216Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      16.94,
+      8.53,
+      1.6,
+      18.54,
+      11.73,
+      2.15
+    ]
+  },
+  {
+    "ref": "LS1",
+    "value": "Speaker",
+    "source": "${KICAD9_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_PicoBlade_53398-0271_1x02-1MP_P1.25mm_Vertical.step",
+    "kind": "STEP solid",
+    "bounds": [
+      29.67,
+      24.81,
+      1.6,
+      37.32,
+      29.01,
+      6.3
+    ]
+  },
+  {
+    "ref": "C29",
+    "value": "1uF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      0.965,
+      21.125,
+      1.6,
+      2.565,
+      21.925,
+      2.4
+    ]
+  },
+  {
+    "ref": "C12",
+    "value": "100nF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      16.62,
+      34.685,
+      1.6,
+      17.42,
+      36.285,
+      2.4
+    ]
+  },
+  {
+    "ref": "R5",
+    "value": "10k",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      24.27,
+      12.08,
+      1.6,
+      25.87,
+      12.88,
+      2.05
+    ]
+  },
+  {
+    "ref": "C7",
+    "value": "47nF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      16.75,
+      16.56,
+      1.6,
+      17.55,
+      18.16,
+      2.4
+    ]
+  },
+  {
+    "ref": "C13",
+    "value": "10uF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      41.41,
+      22.965,
+      1.6,
+      42.21,
+      24.565,
+      2.4
+    ]
+  },
+  {
+    "ref": "C33",
+    "value": "100nF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      44.755,
+      83.76,
+      1.6,
+      46.355,
+      84.56,
+      2.4
+    ]
+  },
+  {
+    "ref": "C1",
+    "value": "1uF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      15.11,
+      12.77,
+      1.6,
+      16.71,
+      13.57,
+      2.4
+    ]
+  },
+  {
+    "ref": "R13",
+    "value": "0",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      41.41,
+      19.9,
+      1.6,
+      42.21,
+      21.5,
+      2.05
+    ]
+  },
+  {
+    "ref": "L3",
+    "value": "MPZ2012S601AT000",
+    "source": "${KICAD9_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_0805_2012Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      16.255,
+      30.435,
+      1.6,
+      17.505,
+      32.435,
+      2.85
+    ]
+  },
+  {
+    "ref": "R6",
+    "value": "5k1",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      26.29,
+      1.36,
+      1.6,
+      27.89,
+      2.16,
+      2.05
+    ]
+  },
+  {
+    "ref": "R27",
+    "value": "4.7k",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      4.51,
+      78.69,
+      1.6,
+      6.11,
+      79.49,
+      2.05
+    ]
+  },
+  {
+    "ref": "C17",
+    "value": "1uF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      10.48,
+      34.715,
+      1.6,
+      11.28,
+      36.315,
+      2.4
+    ]
+  },
+  {
+    "ref": "C37",
+    "value": "100nF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      37.02,
+      22.66,
+      1.6,
+      38.62,
+      23.46,
+      2.4
+    ]
+  },
+  {
+    "ref": "SW3",
+    "value": "SW_PUSH_12x12x12mm_4Pin_SMD",
+    "source": "${KIPRJMOD}/3dmodels/SW_PUSH_12x12x12mm_4Pin_SMD.step",
+    "kind": "STEP solid",
+    "bounds": [
+      8.35,
+      49.0,
+      1.6,
+      23.65,
+      61.0,
+      13.6
+    ]
+  },
+  {
+    "ref": "SW4",
+    "value": "SW_PUSH_12x12x12mm_4Pin_SMD",
+    "source": "${KIPRJMOD}/3dmodels/SW_PUSH_12x12x12mm_4Pin_SMD.step",
+    "kind": "STEP solid",
+    "bounds": [
+      36.35,
+      49.0,
+      1.6,
+      51.65,
+      61.0,
+      13.6
+    ]
+  },
+  {
+    "ref": "R20",
+    "value": "47k",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      33.265,
+      85.23,
+      1.6,
+      34.065,
+      86.83,
+      2.05
+    ]
+  },
+  {
+    "ref": "C68",
+    "value": "100nF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      5.19,
+      46.3,
+      1.6,
+      6.79,
+      47.1,
+      2.4
+    ]
+  },
+  {
+    "ref": "X2",
+    "value": "X50328MSB2GI",
+    "source": "${KIPRJMOD}/3dmodels/CRYSTAL-SMD_L5.0-W3.2.step",
+    "kind": "STEP solid",
+    "bounds": [
+      14.37,
+      69.07,
+      1.59,
+      19.37,
+      72.27,
+      3.01
+    ]
+  },
+  {
+    "ref": "R11",
+    "value": "10k",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      24.19,
+      16.89,
+      1.6,
+      25.79,
+      17.69,
+      2.05
+    ]
+  },
+  {
+    "ref": "C60",
+    "value": "100nF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      11.03,
+      70.74,
+      1.6,
+      11.83,
+      72.34,
+      2.4
+    ]
+  },
+  {
+    "ref": "C6",
+    "value": "100uF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_5x5.4.step",
+    "kind": "STEP solid",
+    "bounds": [
+      1.14,
+      13.52,
+      1.6,
+      6.44,
+      20.02,
+      7.0
+    ]
+  },
+  {
+    "ref": "R10",
+    "value": "10k",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      22.08,
+      19.53,
+      1.6,
+      22.88,
+      21.13,
+      2.05
+    ]
+  },
+  {
+    "ref": "R14",
+    "value": "100k",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      14.35,
+      29.65,
+      1.6,
+      15.15,
+      31.25,
+      2.05
+    ]
+  },
+  {
+    "ref": "R28",
+    "value": "634k",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      37.01,
+      19.6,
+      1.6,
+      38.61,
+      20.4,
+      2.05
+    ]
+  },
+  {
+    "ref": "C2",
+    "value": "4.7uF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      42.93,
+      19.9,
+      1.6,
+      43.73,
+      21.5,
+      2.4
+    ]
+  },
+  {
+    "ref": "C42",
+    "value": "22pF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      38.955,
+      65.78,
+      1.6,
+      40.555,
+      66.58,
+      2.4
+    ]
+  },
+  {
+    "ref": "R22",
+    "value": "47k",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      36.315,
+      85.23,
+      1.6,
+      37.115,
+      86.83,
+      2.05
+    ]
+  },
+  {
+    "ref": "SW2",
+    "value": "PEC11L-4120F-S0020",
+    "source": "${KIPRJMOD}/3dmodels/SW-TH_PEC11R-4XXXF-SXXXX.wrl",
+    "kind": "VRML-derived bounding envelope (not exact solid)",
+    "bounds": [
+      23.71121,
+      32.65,
+      -1.90012,
+      36.28879,
+      47.35,
+      21.10009
+    ]
+  },
+  {
+    "ref": "C48",
+    "value": "1uF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      16.62,
+      37.73,
+      1.6,
+      17.42,
+      39.33,
+      2.4
+    ]
+  },
+  {
+    "ref": "C64",
+    "value": "2.2uF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      26.5,
+      85.85,
+      1.6,
+      28.1,
+      86.65,
+      2.4
+    ]
+  },
+  {
+    "ref": "C25",
+    "value": "100nF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      7.22,
+      17.46,
+      1.6,
+      8.02,
+      19.06,
+      2.4
+    ]
+  },
+  {
+    "ref": "C49",
+    "value": "10uF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      15.09,
+      37.73,
+      1.6,
+      15.89,
+      39.33,
+      2.4
+    ]
+  },
+  {
+    "ref": "C31",
+    "value": "1uF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      4.035,
+      28.52,
+      1.6,
+      4.835,
+      30.12,
+      2.4
+    ]
+  },
+  {
+    "ref": "C59",
+    "value": "47uF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      20.6,
+      70.76,
+      1.6,
+      21.4,
+      72.36,
+      2.4
+    ]
+  },
+  {
+    "ref": "C61",
+    "value": "100nF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      24.67,
+      89.5,
+      1.6,
+      26.27,
+      90.3,
+      2.4
+    ]
+  },
+  {
+    "ref": "R23",
+    "value": "6.8",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      46.265,
+      85.29,
+      1.6,
+      47.865,
+      86.09,
+      2.05
+    ]
+  },
+  {
+    "ref": "J1",
+    "value": "USB_C_Receptacle_USB2.0_16P",
+    "source": "${KIPRJMOD}/3dmodels/J1_HRO_TYPE-C-31-M-12.step",
+    "kind": "STEP solid",
+    "bounds": [
+      15.62,
+      -0.1,
+      0.75,
+      24.56,
+      7.8,
+      4.851
+    ]
+  },
+  {
+    "ref": "R16",
+    "value": "470k",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      10.85,
+      26.565,
+      1.6,
+      11.65,
+      28.165,
+      2.05
+    ]
+  },
+  {
+    "ref": "C38",
+    "value": "22uF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      22.1,
+      34.665,
+      1.6,
+      22.9,
+      36.265,
+      2.4
+    ]
+  },
+  {
+    "ref": "C16",
+    "value": "10uF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      18.96,
+      24.82,
+      1.6,
+      19.76,
+      26.42,
+      2.4
+    ]
+  },
+  {
+    "ref": "L2",
+    "value": "XFL4020-152MEC",
+    "source": "${KIPRJMOD}/3dmodels/IND-SMD_L4.0-W4.0-A.wrl",
+    "kind": "VRML-derived bounding envelope (not exact solid)",
+    "bounds": [
+      12.09,
+      21.06,
+      1.6,
+      16.09,
+      25.06,
+      3.70007
+    ]
+  },
+  {
+    "ref": "C20",
+    "value": "470nF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      0.965,
+      24.175,
+      1.6,
+      2.565,
+      24.975,
+      2.4
+    ]
+  },
+  {
+    "ref": "J2",
+    "value": "Micro_SD_Card",
+    "source": "${KICAD9_3DMODEL_DIR}/Connector_Card.3dshapes/microSD_HC_Hirose_DM3AT-SF-PEJM5.step",
+    "kind": "STEP solid",
+    "bounds": [
+      30.04,
+      88.525,
+      1.6,
+      43.89,
+      104.675,
+      3.28
+    ]
+  },
+  {
+    "ref": "C46",
+    "value": "100nF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      43.975,
+      67.43,
+      1.6,
+      44.775,
+      69.03,
+      2.4
+    ]
+  },
+  {
+    "ref": "U1",
+    "value": "Microchip_BM83",
+    "source": "${KIPRJMOD}/3dmodels/U1_Microchip_BM83.step",
+    "kind": "STEP solid",
+    "bounds": [
+      27.54,
+      3.28,
+      1.6,
+      59.54,
+      18.28,
+      4.1
+    ]
+  },
+  {
+    "ref": "C54",
+    "value": "100nF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      11.07,
+      91.58,
+      1.6,
+      11.87,
+      93.18,
+      2.4
+    ]
+  },
+  {
+    "ref": "U2",
+    "value": "BQ25895RTWR",
+    "source": "${KIPRJMOD}/3dmodels/QFN-24_L4.0-W4.0-P0.50-TL-EP2.7.wrl",
+    "kind": "VRML-derived bounding envelope (not exact solid)",
+    "bounds": [
+      19.1701,
+      14.09435,
+      1.6,
+      23.1899,
+      18.11415,
+      2.51999
+    ]
+  },
+  {
+    "ref": "C45",
+    "value": "22uF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      20.96,
+      32.76,
+      1.6,
+      22.56,
+      33.56,
+      2.4
+    ]
+  },
+  {
+    "ref": "BT1",
+    "value": "Battery_Cell",
+    "source": "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical.step",
+    "kind": "STEP solid",
+    "bounds": [
+      22.23,
+      24.32,
+      -1.8,
+      28.13,
+      28.87,
+      7.6
+    ]
+  },
+  {
+    "ref": "C3",
+    "value": "100nF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      9.27,
+      26.56,
+      1.6,
+      10.07,
+      28.16,
+      2.4
+    ]
+  },
+  {
+    "ref": "C55",
+    "value": "100nF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      34.28,
+      54.29,
+      1.6,
+      35.08,
+      55.89,
+      2.4
+    ]
+  },
+  {
+    "ref": "C36",
+    "value": "10uF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      19.04,
+      34.675,
+      1.6,
+      19.84,
+      36.275,
+      2.4
+    ]
+  },
+  {
+    "ref": "C32",
+    "value": "1uF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      44.75,
+      82.24,
+      1.6,
+      46.35,
+      83.04,
+      2.4
+    ]
+  },
+  {
+    "ref": "R7",
+    "value": "5k1",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      25.94,
+      3.26,
+      1.6,
+      26.74,
+      4.86,
+      2.05
+    ]
+  },
+  {
+    "ref": "C10",
+    "value": "1uF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      9.64,
+      21.65,
+      1.6,
+      11.24,
+      22.45,
+      2.4
+    ]
+  },
+  {
+    "ref": "J4",
+    "value": "Conn_ARM_JTAG_SWD_10",
+    "source": "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_1.27mm.3dshapes/PinHeader_2x05_P1.27mm_Vertical.step",
+    "kind": "STEP solid",
+    "bounds": [
+      3.38,
+      82.95,
+      -0.7,
+      6.78,
+      89.3,
+      5.6
+    ]
+  },
+  {
+    "ref": "SW1",
+    "value": "SW_Push",
+    "source": "${KIPRJMOD}/3dmodels/SW1_Tactile_3.9x3.0x2.0.step",
+    "kind": "STEP solid",
+    "bounds": [
+      23.49999,
+      18.51,
+      1.6,
+      26.40001,
+      23.31,
+      3.55
+    ]
+  },
+  {
+    "ref": "U4",
+    "value": "USBLC6-2SC6",
+    "source": "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-6.step",
+    "kind": "STEP solid",
+    "bounds": [
+      19.4175,
+      8.55,
+      1.6,
+      22.3175,
+      11.35,
+      3.15
+    ]
+  },
+  {
+    "ref": "R24",
+    "value": "47k",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      34.785,
+      85.23,
+      1.6,
+      35.585,
+      86.83,
+      2.05
+    ]
+  },
+  {
+    "ref": "R31",
+    "value": "10k",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      4.5,
+      77.16,
+      1.6,
+      6.1,
+      77.96,
+      2.05
+    ]
+  },
+  {
+    "ref": "L1",
+    "value": "2.2uH",
+    "source": "${KIPRJMOD}/3dmodels/IND-SMD_L5.0-W5.0-H4.0.wrl",
+    "kind": "VRML-derived bounding envelope (not exact solid)",
+    "bounds": [
+      16.54988,
+      18.97988,
+      1.6,
+      21.55012,
+      23.98012,
+      5.6099
+    ]
+  },
+  {
+    "ref": "D1",
+    "value": "LED",
+    "source": "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      23.14,
+      9.3,
+      1.6,
+      23.94,
+      10.9,
+      2.7
+    ]
+  },
+  {
+    "ref": "C56",
+    "value": "100nF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      25.815,
+      74.535,
+      1.6,
+      27.415,
+      75.335,
+      2.4
+    ]
+  },
+  {
+    "ref": "C28",
+    "value": "1uF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      15.09,
+      34.695,
+      1.6,
+      15.89,
+      36.295,
+      2.4
+    ]
+  },
+  {
+    "ref": "R35",
+    "value": "1k",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      5.19,
+      44.78,
+      1.6,
+      6.79,
+      45.58,
+      2.05
+    ]
+  },
+  {
+    "ref": "U7",
+    "value": "TPS63070RNMR",
+    "source": "${KIPRJMOD}/3dmodels/VQFN-15_L3.0-W2.5-H0.9-P0.50-BL.wrl",
+    "kind": "VRML-derived bounding envelope (not exact solid)",
+    "bounds": [
+      12.77733,
+      25.86007,
+      1.6,
+      15.77732,
+      28.35993,
+      2.49992
+    ]
+  },
+  {
+    "ref": "C11",
+    "value": "100nF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      28.43,
+      21.39,
+      1.6,
+      29.23,
+      22.99,
+      2.4
+    ]
+  },
+  {
+    "ref": "C21",
+    "value": "10uF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      12.02,
+      34.705,
+      1.6,
+      12.82,
+      36.305,
+      2.4
+    ]
+  },
+  {
+    "ref": "U3",
+    "value": "TLV320AIC3104IRHBR",
+    "source": "${KIPRJMOD}/3dmodels/HVQFN-32_L5.0-W5.0-H1.0-P0.50.wrl",
+    "kind": "VRML-derived bounding envelope (not exact solid)",
+    "bounds": [
+      3.52997,
+      21.75997,
+      1.6,
+      8.55003,
+      26.78003,
+      2.62006
+    ]
+  },
+  {
+    "ref": "C14",
+    "value": "10uF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      20.5,
+      24.825,
+      1.6,
+      21.3,
+      26.425,
+      2.4
+    ]
+  },
+  {
+    "ref": "R4",
+    "value": "10k",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      15.11,
+      14.29,
+      1.6,
+      16.71,
+      15.09,
+      2.05
+    ]
+  },
+  {
+    "ref": "C40",
+    "value": "10uF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      37.015,
+      21.13,
+      1.6,
+      38.615,
+      21.93,
+      2.4
+    ]
+  },
+  {
+    "ref": "C50",
+    "value": "100nF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      24.93,
+      54.2,
+      1.6,
+      25.73,
+      55.8,
+      2.4
+    ]
+  },
+  {
+    "ref": "C35",
+    "value": "1nF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0201_0603Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      51.045,
+      66.4,
+      1.6,
+      51.645,
+      66.7,
+      1.9
+    ]
+  },
+  {
+    "ref": "R30",
+    "value": "4.7k",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      46.86,
+      70.41,
+      1.6,
+      47.66,
+      72.01,
+      2.05
+    ]
+  },
+  {
+    "ref": "R26",
+    "value": "4.7k",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      4.51,
+      80.22,
+      1.6,
+      6.11,
+      81.02,
+      2.05
+    ]
+  },
+  {
+    "ref": "R32",
+    "value": "10k",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      18.61,
+      30.66,
+      1.6,
+      19.41,
+      32.26,
+      2.05
+    ]
+  },
+  {
+    "ref": "C5",
+    "value": "100uF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_5x5.4.step",
+    "kind": "STEP solid",
+    "bounds": [
+      8.82,
+      13.53,
+      1.6,
+      14.12,
+      20.03,
+      7.0
+    ]
+  },
+  {
+    "ref": "R29",
+    "value": "4.7k",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      48.45,
+      70.41,
+      1.6,
+      49.25,
+      72.01,
+      2.05
+    ]
+  },
+  {
+    "ref": "R18",
+    "value": "150k",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      10.85,
+      29.59,
+      1.6,
+      11.65,
+      31.19,
+      2.05
+    ]
+  },
+  {
+    "ref": "C41",
+    "value": "22uF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      20.57,
+      34.67,
+      1.6,
+      21.37,
+      36.27,
+      2.4
+    ]
+  },
+  {
+    "ref": "X1",
+    "value": "ABS07-32.768KHZ-T",
+    "source": "${KIPRJMOD}/3dmodels/OSC-SMD_2P-L3.2-W1.5-H0.9.wrl",
+    "kind": "VRML-derived bounding envelope (not exact solid)",
+    "bounds": [
+      41.67994,
+      65.91005,
+      1.6,
+      43.18006,
+      69.10995,
+      2.33101
+    ]
+  },
+  {
+    "ref": "C4",
+    "value": "10uF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      17.78,
+      13.55,
+      1.6,
+      18.58,
+      15.15,
+      2.4
+    ]
+  },
+  {
+    "ref": "R19",
+    "value": "47k",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      42.395,
+      85.225,
+      1.6,
+      43.195,
+      86.825,
+      2.05
+    ]
+  },
+  {
+    "ref": "R36",
+    "value": "10k",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      14.87,
+      18.28,
+      1.6,
+      15.67,
+      19.88,
+      2.05
+    ]
+  },
+  {
+    "ref": "R1",
+    "value": "2.2k",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      24.72,
+      9.31,
+      1.6,
+      25.52,
+      10.91,
+      2.05
+    ]
+  },
+  {
+    "ref": "C30",
+    "value": "100nF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      12.81,
+      29.19,
+      1.6,
+      13.61,
+      30.79,
+      2.4
+    ]
+  },
+  {
+    "ref": "C57",
+    "value": "100nF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      22.13,
+      70.76,
+      1.6,
+      22.93,
+      72.36,
+      2.4
+    ]
+  },
+  {
+    "ref": "R34",
+    "value": "100k",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      5.19,
+      43.26,
+      1.6,
+      6.79,
+      44.06,
+      2.05
+    ]
+  },
+  {
+    "ref": "R12",
+    "value": "0",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      39.89,
+      19.905,
+      1.6,
+      40.69,
+      21.505,
+      2.05
+    ]
+  },
+  {
+    "ref": "C47",
+    "value": "22pF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      38.95,
+      68.46,
+      1.6,
+      40.55,
+      69.26,
+      2.4
+    ]
+  },
+  {
+    "ref": "C8",
+    "value": "100nF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      10.83,
+      23.505,
+      1.6,
+      11.63,
+      25.105,
+      2.4
+    ]
+  },
+  {
+    "ref": "D3",
+    "value": "D_TVS",
+    "source": "${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_0201_0603Metric.step",
+    "kind": "UNVERIFIED missing-model allowance",
+    "bounds": [
+      54.965,
+      65.78,
+      1.6,
+      55.465,
+      66.68,
+      2.1
+    ]
+  },
+  {
+    "ref": "C22",
+    "value": "1uF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      8.03,
+      20.13,
+      1.6,
+      9.63,
+      20.93,
+      2.4
+    ]
+  },
+  {
+    "ref": "C52",
+    "value": "100nF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      29.2,
+      47.48,
+      1.6,
+      30.8,
+      48.28,
+      2.4
+    ]
+  },
+  {
+    "ref": "FPC1",
+    "value": "FPC05012-09200",
+    "source": "${KIPRJMOD}/3dmodels/FPC-SMD_FPC05012-09200.wrl",
+    "kind": "VRML-derived bounding envelope (not exact solid)",
+    "bounds": [
+      49.54896,
+      78.56484,
+      1.6,
+      55.49891,
+      89.28491,
+      3.6
+    ]
+  },
+  {
+    "ref": "R2",
+    "value": "10k",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      9.28,
+      23.52,
+      1.6,
+      10.08,
+      25.12,
+      2.05
+    ]
+  },
+  {
+    "ref": "R8",
+    "value": "10k",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      23.92,
+      13.95,
+      1.6,
+      24.72,
+      15.55,
+      2.05
+    ]
+  },
+  {
+    "ref": "C24",
+    "value": "100nF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      13.56,
+      34.695,
+      1.6,
+      14.36,
+      36.295,
+      2.4
+    ]
+  },
+  {
+    "ref": "C27",
+    "value": "100nF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      22.14,
+      30.085,
+      1.6,
+      22.94,
+      31.685,
+      2.4
+    ]
+  },
+  {
+    "ref": "U10",
+    "value": "STM32H523VET6",
+    "source": "${KIPRJMOD}/3dmodels/LQFP-100_L14.0-W14.0-H1.4-LS16.0-P0.50.wrl",
+    "kind": "VRML-derived bounding envelope (not exact solid)",
+    "bounds": [
+      8.48002,
+      74.08002,
+      1.6,
+      24.47998,
+      90.07998,
+      3.10089
+    ]
+  },
+  {
+    "ref": "C15",
+    "value": "10uF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      24.07,
+      29.72,
+      1.6,
+      25.67,
+      30.52,
+      2.4
+    ]
+  },
+  {
+    "ref": "U9",
+    "value": "MAX98357AETE+T",
+    "source": "${KIPRJMOD}/3dmodels/TQFN-16_L3.0-W3.0-P0.50-BL-EP1.5.wrl",
+    "kind": "VRML-derived bounding envelope (not exact solid)",
+    "bounds": [
+      32.91997,
+      20.29997,
+      1.6,
+      35.94003,
+      23.32003,
+      2.35997
+    ]
+  },
+  {
+    "ref": "R15",
+    "value": "10k",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      16.37,
+      26.425,
+      1.6,
+      17.17,
+      28.025,
+      2.05
+    ]
+  },
+  {
+    "ref": "Q1",
+    "value": "AO3400A",
+    "source": "${KIPRJMOD}/3dmodels/SOT-23-3P_L2.9-W1.3-H1.0-LS2.4-P0.95.wrl",
+    "kind": "VRML-derived bounding envelope (not exact solid)",
+    "bounds": [
+      45.66491,
+      86.74727,
+      1.6,
+      48.56509,
+      89.25273,
+      2.64927
+    ]
+  },
+  {
+    "ref": "R21",
+    "value": "47k",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      40.875,
+      85.225,
+      1.6,
+      41.675,
+      86.825,
+      2.05
+    ]
+  },
+  {
+    "ref": "C51",
+    "value": "100nF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      13.57,
+      37.73,
+      1.6,
+      14.37,
+      39.33,
+      2.4
+    ]
+  },
+  {
+    "ref": "C34",
+    "value": "1uF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      3.135,
+      31.25,
+      1.6,
+      4.735,
+      32.05,
+      2.4
+    ]
+  },
+  {
+    "ref": "C63",
+    "value": "100nF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      25.815,
+      76.075,
+      1.6,
+      27.415,
+      76.875,
+      2.4
+    ]
+  },
+  {
+    "ref": "C18",
+    "value": "470nF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      0.965,
+      22.655,
+      1.6,
+      2.565,
+      23.455,
+      2.4
+    ]
+  },
+  {
+    "ref": "J3",
+    "value": "U.FL",
+    "source": "${KIPRJMOD}/3dmodels/IPEX-SMD_BWIPX-1-001E.step",
+    "kind": "STEP solid",
+    "bounds": [
+      56.60499,
+      65.05,
+      1.59,
+      59.70499,
+      68.05,
+      2.85
+    ]
+  },
+  {
+    "ref": "C43",
+    "value": "10uF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      39.355,
+      85.225,
+      1.6,
+      40.155,
+      86.825,
+      2.4
+    ]
+  },
+  {
+    "ref": "D2",
+    "value": "SMF5.0CA",
+    "source": "${KIPRJMOD}/3dmodels/D_SOD-123FL.step",
+    "kind": "STEP solid",
+    "bounds": [
+      14.55,
+      8.42,
+      1.6,
+      16.15,
+      11.92,
+      2.7
+    ]
+  },
+  {
+    "ref": "C9",
+    "value": "100nF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      39.88,
+      22.97,
+      1.6,
+      40.68,
+      24.57,
+      2.4
+    ]
+  },
+  {
+    "ref": "U5",
+    "value": "MAX17048G+T10",
+    "source": "${KIPRJMOD}/3dmodels/TDFN-8_L2.0-W2.0-P0.50-BL-EP1.2.wrl",
+    "kind": "VRML-derived bounding envelope (not exact solid)",
+    "bounds": [
+      18.9501,
+      27.66,
+      1.6,
+      20.9699,
+      29.66,
+      2.38003
+    ]
+  },
+  {
+    "ref": "R17",
+    "value": "10k",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      50.22,
+      69.14,
+      1.6,
+      51.02,
+      70.74,
+      2.05
+    ]
+  },
+  {
+    "ref": "C39",
+    "value": "100nF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      37.835,
+      85.225,
+      1.6,
+      38.635,
+      86.825,
+      2.4
+    ]
+  },
+  {
+    "ref": "U6",
+    "value": "AP2112K-1.8",
+    "source": "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.step",
+    "kind": "STEP solid",
+    "bounds": [
+      5.6175,
+      28.33,
+      1.6,
+      8.5175,
+      31.13,
+      3.15
+    ]
+  },
+  {
+    "ref": "C67",
+    "value": "30pF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      14.42,
+      66.48,
+      1.6,
+      15.22,
+      68.08,
+      2.4
+    ]
+  },
+  {
+    "ref": "IC1",
+    "value": "SI4705-D60-GM",
+    "source": "${KIPRJMOD}/3dmodels/IC1_SI4705-D60-GM.step",
+    "kind": "STEP solid",
+    "bounds": [
+      45.83,
+      65.64,
+      1.6,
+      49.15,
+      68.96,
+      2.235
+    ]
+  },
+  {
+    "ref": "C66",
+    "value": "30pF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      18.54,
+      66.48,
+      1.6,
+      19.34,
+      68.08,
+      2.4
+    ]
+  },
+  {
+    "ref": "R25",
+    "value": "100k",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      46.265,
+      90.11,
+      1.6,
+      47.865,
+      90.91,
+      2.05
+    ]
+  },
+  {
+    "ref": "C53",
+    "value": "100nF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      4.495,
+      75.63,
+      1.6,
+      6.095,
+      76.43,
+      2.4
+    ]
+  },
+  {
+    "ref": "C62",
+    "value": "2.2uF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      26.5,
+      87.37,
+      1.6,
+      28.1,
+      88.17,
+      2.4
+    ]
+  },
+  {
+    "ref": "C44",
+    "value": "22nF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      43.975,
+      64.4,
+      1.6,
+      44.775,
+      66.0,
+      2.4
+    ]
+  },
+  {
+    "ref": "C19",
+    "value": "100nF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      7.22,
+      14.425,
+      1.6,
+      8.02,
+      16.025,
+      2.4
+    ]
+  },
+  {
+    "ref": "R9",
+    "value": "260",
+    "source": "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      25.44,
+      13.95,
+      1.6,
+      26.24,
+      15.55,
+      2.05
+    ]
+  },
+  {
+    "ref": "C58",
+    "value": "100nF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      8.33,
+      89.78,
+      1.6,
+      9.13,
+      91.38,
+      2.4
+    ]
+  },
+  {
+    "ref": "C65",
+    "value": "47uF",
+    "source": "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step",
+    "kind": "STEP solid",
+    "bounds": [
+      12.56,
+      70.73,
+      1.6,
+      13.36,
+      72.33,
+      2.4
+    ]
+  }
+]
